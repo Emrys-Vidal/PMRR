@@ -1,8 +1,11 @@
 #Primeira implemetação para código de leitura dos documentos .doc/.docx
+import pandas as pd
+import numpy as np
+import os
+from docx import Document
 
-def soma():
-    x = 1+1
-    print(x)
-    return x
 
-soma()
+caminho = "Exemplos"
+arquivos = os.listdir(caminho)
+print(arquivos)
+
