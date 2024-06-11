@@ -2,8 +2,7 @@
 import pandas as pd
 import numpy as np
 import os
-from docx import Document
-
+from docx import document
 
 caminho = "Exemplos"
 arquivos = os.listdir(caminho)
