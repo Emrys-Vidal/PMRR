@@ -8,3 +8,8 @@ caminho = "Teste"
 arquivos = os.listdir(caminho)
 print(arquivos)
 
+
+
+
+
+print("Olá")
