@@ -5,7 +5,9 @@ import numpy as np
 from docx import document
 
 
-caminho = "Exemplos"
-arquivos = os.listdir(caminho)
-print(arquivos)
+#caminho = "Exemplos"
+#arquivos = os.listdir(caminho)
+#print(arquivos)
+
+print ("Hello world!")
 
