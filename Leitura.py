@@ -1,15 +1,17 @@
 #Primeira implemetação para código de leitura dos documentos .doc/.docx
 import pandas as pd
 import numpy as np
-import os
+#import os ñ tem q baixar, ja vem integrado
 from docx import document
 
-caminho = "Teste"
-arquivos = os.listdir(caminho)
-print(arquivos)
 
 
-
+#caminho = "Exemplos"
+#arquivos = os.listdir(caminho)
+#print(arquivos)
+print ("Hello Wordl!")
+=======
 
 
 print("Olá")
+
