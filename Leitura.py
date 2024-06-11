@@ -1,7 +1,7 @@
 #Primeira implemetação para código de leitura dos documentos .doc/.docx
 import pandas as pd
 import numpy as np
-import os
+#import os ñ tem q baixar, ja vem integrado
 from docx import Document
 
 
