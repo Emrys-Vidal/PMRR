@@ -2,9 +2,10 @@
 import pandas as pd
 import numpy as np
 #import os ñ tem q baixar, ja vem integrado
-from docx import Document
+from docx import document
 
 
 caminho = "Exemplos"
 arquivos = os.listdir(caminho)
 print(arquivos)
+
