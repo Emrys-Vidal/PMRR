@@ -4,7 +4,7 @@ import numpy as np
 import os
 from docx import document
 
-caminho = "Exemplos"
+caminho = "Teste"
 arquivos = os.listdir(caminho)
 print(arquivos)
 
