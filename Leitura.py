@@ -8,4 +8,3 @@ from docx import Document
 caminho = "Exemplos"
 arquivos = os.listdir(caminho)
 print(arquivos)
-
